@@ -1,0 +1,8 @@
+D:\Trabajo\Ejercicios\Lectura-XML\Lectura_Archivo_XML\Lectura_Archivo_XML\bin\Debug\Lectura_Archivo_XML.exe.config
+D:\Trabajo\Ejercicios\Lectura-XML\Lectura_Archivo_XML\Lectura_Archivo_XML\bin\Debug\Lectura_Archivo_XML.exe
+D:\Trabajo\Ejercicios\Lectura-XML\Lectura_Archivo_XML\Lectura_Archivo_XML\bin\Debug\Lectura_Archivo_XML.pdb
+D:\Trabajo\Ejercicios\Lectura-XML\Lectura_Archivo_XML\Lectura_Archivo_XML\obj\Debug\Lectura_Archivo_XML.csproj.AssemblyReference.cache
+D:\Trabajo\Ejercicios\Lectura-XML\Lectura_Archivo_XML\Lectura_Archivo_XML\obj\Debug\Lectura_Archivo_XML.csproj.SuggestedBindingRedirects.cache
+D:\Trabajo\Ejercicios\Lectura-XML\Lectura_Archivo_XML\Lectura_Archivo_XML\obj\Debug\Lectura_Archivo_XML.csproj.CoreCompileInputs.cache
+D:\Trabajo\Ejercicios\Lectura-XML\Lectura_Archivo_XML\Lectura_Archivo_XML\obj\Debug\Lectura_Archivo_XML.exe
+D:\Trabajo\Ejercicios\Lectura-XML\Lectura_Archivo_XML\Lectura_Archivo_XML\obj\Debug\Lectura_Archivo_XML.pdb
